@@ -158,7 +158,10 @@ INSERT INTO `bairros` (`id`, `bairro`) VALUES
 (120, 'Vila Sud Menuci'),
 (121, 'Vila Suissa'),
 (122, 'Vila Vitoria'),
-(123, 'Volta Fria');
+(123, 'Volta Fria'),
+(124, 'Vila Nancy'),
+(125, 'Jardim Juliana')
+;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
